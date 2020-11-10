@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CARTOON NETWORK HD¹">
+    <display-name lang="pt">CARTOON NETWORK HD¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CARTOON NETWORK HD²">
+    <display-name lang="pt">CARTOON NETWORK HD²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK FHD H265¹">
+    <display-name lang="pt">CARTOON NETWORK FHD H265¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK FHD H265 ²">
+    <display-name lang="en">CARTOON NETWORK FHD H265 ²</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK SD¹">
+    <display-name lang="pt">CARTOON NETWORK SD¹</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK SD²">
+    <display-name lang="pt">CARTOON NETWORK SD²</display-name>
+    <url>http://www.vcfaz.tv</url>
+  </channel>
+  <channel id="DISCOVERY KIDS HD¹">
+    <display-name lang="pt">DISCOVERY KIDS HD¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY KIDS HD ²">
+    <display-name lang="pt">DISCOVERY KIDS HD ²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY KIDS SD²">
+    <display-name lang="pt">DISCOVERY KIDS SD²</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS FHD H265¹">
+    <display-name lang="en">DISCOVERY KIDS FHD H265¹</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS FHD H265²">
+    <display-name lang="pt">DISCOVERY KIDS FHD H265²</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="RECORD NEWS HD²">
+    <display-name lang="pt">RECORD NEWS HD²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD NEWS SD²">
+    <display-name lang="pt">RECORD NEWS SD²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RECORD NEWS SD¹">
+    <display-name lang="pt">RECORD NEWS SD¹ </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
